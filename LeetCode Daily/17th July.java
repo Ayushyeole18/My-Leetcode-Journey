@@ -1,3 +1,5 @@
+//3312. Sorted GCD Pair Queries
+
 class Solution {
     public int[] gcdValues(int[] nums, long[] queries) {
         int max = 0;
